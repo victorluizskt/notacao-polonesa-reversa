@@ -1,7 +1,14 @@
 package model;
 
 import model.exception.StackException;
-
+/*
+ *
+ * @brief Classe Main
+ * @author Victor Luiz Gonçalves & Tássis Fernando
+ * @date   02/12/2020
+ * @since  02/12/2020
+ *
+ */
 public class PilhaDinamica<T> {
 
     private Celula topo;
